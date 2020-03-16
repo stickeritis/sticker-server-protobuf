@@ -1,0 +1,5 @@
+/target
+
+# Editor files
+.*
+*.bk

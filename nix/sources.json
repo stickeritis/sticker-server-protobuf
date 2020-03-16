@@ -1,0 +1,26 @@
+{
+    "crate2nix": {
+        "branch": "master",
+        "description": "nix build file generator for rust crates",
+        "homepage": "",
+        "owner": "kolloch",
+        "repo": "crate2nix",
+        "rev": "f2d16ac47bafc9fe07ca9d66decc78280e0d3b35",
+        "sha256": "1s1rxyjp9k4nwiv4yifzdax8lysgcp36j2lhhf8cjr5kk8526zmh",
+        "type": "tarball",
+        "url": "https://github.com/kolloch/crate2nix/archive/f2d16ac47bafc9fe07ca9d66decc78280e0d3b35.tar.gz",
+        "url_template": "https://github.com/<owner>/<repo>/archive/<rev>.tar.gz"
+    },
+    "nixpkgs": {
+        "branch": "release-20.03",
+        "description": "Nix Packages collection",
+        "homepage": null,
+        "owner": "NixOS",
+        "repo": "nixpkgs",
+        "rev": "c09c926ee8ec2d9ad12ba8e1f99e81f3ea0bd18e",
+        "sha256": "1jzkh9pp5081phwv8mpz8b1csmf17kppbd0y0q99yaxkwgbnx43s",
+        "type": "tarball",
+        "url": "https://github.com/NixOS/nixpkgs/archive/c09c926ee8ec2d9ad12ba8e1f99e81f3ea0bd18e.tar.gz",
+        "url_template": "https://github.com/<owner>/<repo>/archive/<rev>.tar.gz"
+    }
+}
