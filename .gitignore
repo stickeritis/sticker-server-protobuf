@@ -1,5 +1,12 @@
 /target
 
+# Generated protobuf file
+src/sticker_server.rs
+
 # Editor files
 .*
 *.bk
+*~
+
+# Nix
+result*

@@ -5,5 +5,6 @@ with pkgs;
 mkShell {
   nativeBuildInputs = [
     cargo
+    protobuf
   ];
 }
